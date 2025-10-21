@@ -1,0 +1,5 @@
+mkdir -p ~/k8s-project/kubeconfig/dev-team
+
+mkdir -p ~/k8s-project/manifests
+
+cd ~/k8s-project
